@@ -5,9 +5,7 @@ var cityInput = document.querySelector("#city");
 var stateInput = document.querySelector("#state");
 var countryInput = document.querySelector("#country");
 var shapeInput = document.querySelector("#shape");
-//var commentsInput = document.querySelector("#comments");
 var searchButton = document.querySelector("#search");
-var submitButton = document.querySelector("#submit");
 var resetButton = document.querySelector("#reset");
 
 // Add an event listener to the buttons, call handle***ButtonClick when clicked
