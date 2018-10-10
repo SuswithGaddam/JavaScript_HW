@@ -6,7 +6,7 @@ Using the UFO dataset provided in the form of an array of JavaScript objects, wr
 
 Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
-* date/time
+* date
 * city
 * state
 * country
